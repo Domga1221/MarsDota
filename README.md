@@ -7,6 +7,6 @@
 - uses the Vue-Framework
 
 # Install
-navigate into the folder
-npm install
-npm run serve
+- navigate into the folder
+- npm install
+- npm run serve
